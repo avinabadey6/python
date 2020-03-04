@@ -15,7 +15,7 @@ for letter in sentence:
          o_count=o_count+1
      if letter=="u" or letter=="U":
          u_count=u_count+1
-print("the vowel count report for:" + sentence + "'")
+print("the vowel count report for:" + sentence + "")
 print("a count:", a_count)
 print("e count:", e_count)
 print("i count:", i_count)

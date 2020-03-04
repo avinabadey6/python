@@ -8,5 +8,15 @@ for t in people:
 print()
 id=input("enter your name")
 num=int(input("enter the number"))
-user={"name":id,"score":num}
+user={"name
+
+
+
+
+
+
+
+
+
+":id,"score":num}
 print(user)

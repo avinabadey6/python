@@ -1,8 +1,8 @@
 i=0
-while(i<51):
+while(i<11):
     print("Shisha")
     i=i+1
-for i in range(0,51):
+for i in range(0,11):
     print("Avinaba")
 n=int(input("enter the number"))
 count=0
@@ -22,4 +22,5 @@ while t!=0:
     sum+=t%10
     t//=10
 print(sum)
+
 

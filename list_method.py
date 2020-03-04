@@ -1,4 +1,3 @@
-
 sallu=[]
 print(dir(sallu))
 sallu.append("India")
